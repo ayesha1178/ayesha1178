@@ -13,11 +13,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Your Cool Project Name](#)**
-- 🌱 I’m currently learning **[New Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Open Source Projects]**
-- 💬 Ask me about **[Your Expertise, e.g., React, Python, UI/UX]**
-- 📫 How to reach me: **[Your Email / LinkedIn]**
+- 🔭 I’m currently working on **a Full-Stack Weather Application and PayCare**
+- 🌱 I’m currently learning **Advanced React Patterns & Cloud Deployment**
+- 👯 I’m looking to collaborate on **Open Source Web Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, and Python**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ayesha-saifi-5453bb392/)**
 
 ---
 
@@ -43,6 +43,7 @@
 ---
 
 <div align="center">
+  <b>My favourite quote:</b><br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
   - Cory House
 </div>
