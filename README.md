@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ayesha!&fontSize=50&fontAlignY=38&animation=twinkling" />
 </div>
 
-<h3 align="center">A passionate developer crafting beautiful experiences on the web.</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Always+learning+new+tech!" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/ayesha1178">
@@ -13,10 +17,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **a Full-Stack Weather Application and PayCare**
-- 🌱 I’m currently learning **Advanced React Patterns & Cloud Deployment**
-- 👯 I’m looking to collaborate on **Open Source Web Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, and Python**
+- 🎓 I'm a Computer Science Engineering student at **ABES Engineering College, Ghaziabad**
+- 🔭 I'm currently building cool projects like **Netflix Clone**, **Weather App**, and **OSM-AI**
+- 🌱 I’m constantly learning advanced **Web Development (MERN Stack)**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, HTML/CSS, Node.js, and Python**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ayesha-saifi-5453bb392/)**
 
 ---
@@ -29,7 +34,13 @@
   </a>
 </p>
 
-*(Customize the URL above to add/remove icons. List of icons: https://github.com/tandpfun/skill-icons)*
+---
+
+### 🔥 Top Projects
+* 🍿 **Netflix Clone**: A responsive UI clone of Netflix.
+* 🌦️ **Weather App**: A dynamic weather forecasting application.
+* 👗 **Fashion Web**: An e-commerce frontend interface.
+* 🤖 **OSM-AI**: Exploring AI integrations.
 
 ---
 
