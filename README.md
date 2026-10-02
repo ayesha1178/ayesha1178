@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ayesha!&fontSize=50&fontAlignY=38&animation=twinkling" />
+</div>
 
-<!--
-**ayesha1178/ayesha1178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate developer crafting beautiful experiences on the web.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ayesha1178">
+    <img src="https://komarev.com/ghpvc/?username=ayesha1178&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha1178" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **[Your Cool Project Name](#)**
+- 🌱 I’m currently learning **[New Technology/Framework]**
+- 👯 I’m looking to collaborate on **[Open Source Projects]**
+- 💬 Ask me about **[Your Expertise, e.g., React, Python, UI/UX]**
+- 📫 How to reach me: **[Your Email / LinkedIn]**
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vscode,figma,python&perline=12" />
+  </a>
+</p>
+
+*(Customize the URL above to add/remove icons. List of icons: https://github.com/tandpfun/skill-icons)*
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha1178&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1178&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" height="150" alt="top languages graph"  />
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
+  - Cory House
+</div>
