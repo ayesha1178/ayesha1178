@@ -1,60 +1,44 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ayesha!&fontSize=50&fontAlignY=38&animation=twinkling" />
-</div>
+<!-- Animated waving header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ayesha%20Saifi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Always+learning+new+tech!" alt="Typing SVG" />
-  </a>
-</div>
-
+<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/ayesha1178">
-    <img src="https://komarev.com/ghpvc/?username=ayesha1178&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha1178" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+ABES+Engineering+College;Building+with+React+%2B+Node.js;Exploring+fraud+prevention+%26+verification+systems;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
----
+## 👋 About me
 
-### 🚀 About Me
-- 🎓 I'm a Computer Science Engineering student at **ABES Engineering College, Ghaziabad**
-- 🔭 I'm currently building cool projects like **Netflix Clone**, **Weather App**, and **OSM-AI**
-- 🌱 I’m constantly learning advanced **Web Development (MERN Stack)**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, HTML/CSS, Node.js, and Python**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ayesha-saifi-5453bb392/)**
+- 🎓 B.Tech CSE student at **ABES Engineering College**, Ghaziabad (2025–2029)
+- 🛠️ I build web apps with **React** and **Node.js**, and I enjoy problem-solving in **C++** and **Python**
+- 🏆 Winner, **Decode SIH 2026** (Team Rusty); 1st runner-up, **Eureka! Road to Enterprise 2026** (led Team PRAMAAN)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ayesha-saifi-5453bb392/) | [Gmail](ayeshaas281@gmail.com)
 
----
-
-### 💻 Tech Stack & Tools
+## 🧰 Tech stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vscode,figma,python&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,git,github,vercel" alt="skills" />
 </p>
 
----
+Also: SQL · NumPy · Pandas · Matplotlib · Render
 
-### 🔥 Top Projects
-* 🍿 **Netflix Clone**: A responsive UI clone of Netflix.
-* 🌦️ **Weather App**: A dynamic weather forecasting application.
-* 👗 **Fashion Web**: An e-commerce frontend interface.
-* 🤖 **OSM-AI**: Exploring AI integrations.
+## 🚀 Projects
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| **Sampati** | UPI fraud-prevention concept: on-device layer plus backend fraud scorer (Team Rusty; I worked on frontend/UI/UX) | React, UI/UX |
+| **Weather Forecast App** | Weather lookup app | React |
+| **CodeChef ABESEC Event Platform** | Event platform, deployed on Render | React, Node.js |
 
-### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha1178&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1178&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" height="150" alt="top languages graph"  />
-</div>
 
----
+## 🐍 Contribution snake
 
-<div align="center">
-  <b>My favourite quote:</b><br>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
-  - Cory House
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayesha1178/ayesha1178/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayesha1178/ayesha1178/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayesha1178/ayesha1178/output/github-snake.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" width="100%" alt="footer" />
