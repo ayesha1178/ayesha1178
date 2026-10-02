@@ -21,13 +21,11 @@
   <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,git,github,vercel" alt="skills" />
 </p>
 
-Also: SQL · NumPy · Pandas · Matplotlib · Render
 
 ## 🚀 Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Sampati** | UPI fraud-prevention concept: on-device layer plus backend fraud scorer (Team Rusty; I worked on frontend/UI/UX) | React, UI/UX |
 | **Weather Forecast App** | Weather lookup app | React |
 | **CodeChef ABESEC Event Platform** | Event platform, deployed on Render | React, Node.js |
 
