@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/ayesha1178">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+ABES+Engineering+College;Building+with+React+%2B+Node.js;Exploring+fraud+prevention+%26+verification+systems;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+ABES+Engineering+College;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
